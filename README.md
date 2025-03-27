@@ -5,7 +5,7 @@
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/aloka-gimhari-626b36246/) | [Email](alokagimhari#gmail.com)  
 
 ---
-![Profile Banner](https://alokagimhari.github.io/My-Portfolio/)  
+🌐 **Portfolio:** [Visit My Website](https://alokagimhari.github.io/My-Portfolio/)
 ---
 ## **🚀 About Me**  
 - 🔭 I’m currently working on **Service Management System Web** (Spring Boot + Angular)  
