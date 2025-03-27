@@ -4,8 +4,6 @@
 📌 Passionate about building scalable web applications and backend systems  
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/aloka-gimhari-626b36246/) | [Email](alokagimhari#gmail.com)  
 
-<--![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding) --> 
-
 ---
 
 ## **🚀 About Me**  
